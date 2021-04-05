@@ -8,7 +8,7 @@
 ## Deployment test And URLS
 
 - Heroku main branch
-  [oht-basic-auth](https://oht-bearer-auth.herokuapp.com/)
+  [oht-bearer-auth](https://oht-bearer-auth.herokuapp.com/)
 
 - Github Pull Request
   [Pull-Request](https://github.com/Omar-Tarawneh/bearer-auth/pull/1)
